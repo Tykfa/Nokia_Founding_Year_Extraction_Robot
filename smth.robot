@@ -9,7 +9,7 @@ ${SEARCH_BAR}                //textarea[contains(@class, 'gLFyf')]
 ${SEARCH_CONTENT}            Nokia Wikipedia
 ${NOKIA_WIKI_ADDRESS}        //h3[contains(@class, 'LC20lb') and contains(@class, 'MBeuO') and contains(@class, 'DKV0Md')]
 ${YEAR_XPATH_TITLE}          //*[@title=1865]
-${SCREENSHOT_FILE}           D:\Nowyfolder\Nokia_Wiki_Site_Screenshot.png
+${SCREENSHOT_FILE}           Nokia_Wiki_Site_Screenshot.png
 ${NOKIA_TITLE_ADDRESS}       //span[contains(@class, 'mw-page-title-main')]
 
 *** Test Cases ***
